@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:18.993814
+#+DATE: 2015-08-30 20:19:20.199818
 #+TITLE: 佛說十八泥犁經
 #+PROPERTY: CBETA_ID T17n0731
 #+PROPERTY: ID KR6i0425
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 731
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0425_T_000-0528b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0425_T_001-0528b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.731¶
-
- 《佛說十八泥犁經》¶
+No. 731¶
+《佛說十八泥犁經》¶
 ¶
 後漢安息國三藏安世高譯¶
 
