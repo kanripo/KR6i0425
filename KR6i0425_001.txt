@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:18.993814
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:33
 #+TITLE: 佛說十八泥犁經
 #+PROPERTY: CBETA_ID T17n0731
 #+PROPERTY: ID KR6i0425
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 731
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0425_T_000-0528b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0425_T_001-0528b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.731¶
-
- 《佛說十八泥犁經》¶
+No. 731¶
+《佛說十八泥犁經》¶
 ¶
 後漢安息國三藏安世高譯¶
 
@@ -38,7 +37,7 @@ No.731¶
 此犁中，相見即欲鬪，乎中無兵而自有兵，相¶
 傷殺無歲數又不死。有人來語起不死，以風¶
 來吹即愈。如是無歲數，已復持熱鐵劍相¶
-傷殺，已復有鐵椎相殺，以手拳極利相傷，¶
+傷殺，已復用鐵椎相殺，以手拳極利相傷，¶
 久久無歲數，是其類。其人長且大，壽人間¶
 三千七百五十歲為一日，三十日為一月，十¶
 二月為一歲，萬歲為人間百三十五億歲。¶
